@@ -13,7 +13,12 @@
 
 ### 📰 期刊
 
-
+- [第31期:2021JavaScript Rising Stars](https://codeffe.vercel.app/2022-weekly-1)
+- [第30期:2021年最受欢迎的 React 组件库](https://codeffe.vercel.app/2021-weekly-53)
+- [第29期:用 Rust 编写更快的 React 组件](https://codeffe.vercel.app/2021-weekly-49)
+- [第28期:浏览器预加载资源技术的应用实践](https://codeffe.vercel.app/2021-weekly-48)
+- [第27期:大型代码库如何完成向 TypeScript 迁移](https://codeffe.vercel.app/2021-weekly-47)
+- [第26期:树莓派防吃灰指南](https://codeffe.vercel.app/2021-weekly-46)
 - [第25期:Jamstack生态系统的开发维护](https://codeffe.vercel.app/2021-weekly-45)
 - [第24期:尤大都推荐的组件库是如何开发的](https://codeffe.vercel.app/2021-weekly-44)
 - [第23期:软件工程的最大难题](https://codeffe.vercel.app/2021-weekly-42)
