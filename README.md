@@ -9,10 +9,21 @@
 ### 🚀 专题
 
 - [Notion有趣的使用专题【专题】](https://codeffe.vercel.app/2021-features-1)
+- [SVG动画开发实现[专题]](https://codeffe.vercel.app/2021-features-2)
 - [Puppeteer开发与实战[专题]](https://codeffe.vercel.app/2021-features-3)
+- [前端资源库分类收集[专题]](https://codeffe.vercel.app/2021-features-4)
+
 
 ### 📰 期刊
 
+
+- [第38期:防御性设计和开发](https://codeffe.vercel.app/2022-weekly-9)
+- [第37期:程序员做饭指南](https://codeffe.vercel.app/2022-weekly-8)
+- [第36期:Product Hunt 2021 年度最佳产品](https://codeffe.vercel.app/2022-weekly-7)
+- [第35期:大前端技术回顾及未来展望](https://codeffe.vercel.app/2022-weekly-6)
+- [第34期:V8 Promise源码全面解读](https://codeffe.vercel.app/2022-weekly-4)
+- [第33期:如何学习前沿技术](https://codeffe.vercel.app/2022-weekly-3)
+- [第32期:系统架构的一些原则](https://codeffe.vercel.app/2022-weekly-2)
 - [第31期:2021JavaScript Rising Stars](https://codeffe.vercel.app/2022-weekly-1)
 - [第30期:2021年最受欢迎的 React 组件库](https://codeffe.vercel.app/2021-weekly-53)
 - [第29期:用 Rust 编写更快的 React 组件](https://codeffe.vercel.app/2021-weekly-49)
