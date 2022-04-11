@@ -16,7 +16,11 @@
 
 ### 📰 期刊
 
-
+- [第43期:MobX 实现原理揭秘](https://codeffe.vercel.app/2022-weekly-14)
+- [第42期:正则表达式工具教程](https://codeffe.vercel.app/2022-weekly-13)
+- [第41期:React 开发思想纲领](https://codeffe.vercel.app/2022-weekly-12)
+- [第40期:追求用户体验至上的工具](https://codeffe.vercel.app/2022-weekly-11)
+- [第39期:献给爱折腾的你](https://codeffe.vercel.app/2022-weekly-10)
 - [第38期:防御性设计和开发](https://codeffe.vercel.app/2022-weekly-9)
 - [第37期:程序员做饭指南](https://codeffe.vercel.app/2022-weekly-8)
 - [第36期:Product Hunt 2021 年度最佳产品](https://codeffe.vercel.app/2022-weekly-7)
