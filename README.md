@@ -16,6 +16,8 @@
 
 ### 📰 期刊
 
+- [第45期:定制你的专属数字名片](https://codeffe.vercel.app/2022-weekly-16)
+- [第44期:跨端统一解决方案](https://codeffe.vercel.app/2022-weekly-15)
 - [第43期:MobX 实现原理揭秘](https://codeffe.vercel.app/2022-weekly-14)
 - [第42期:正则表达式工具教程](https://codeffe.vercel.app/2022-weekly-13)
 - [第41期:React 开发思想纲领](https://codeffe.vercel.app/2022-weekly-12)
