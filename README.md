@@ -16,6 +16,9 @@
 
 ### 📰 期刊
 
+- [第48期:99行代码能干啥](https://codeffe.vercel.app/2022-weekly-19)
+- [第47期:你在丧尸末日中能生存多久](https://codeffe.vercel.app/2022-weekly-18)
+- [第46期:程序员万象指南](https://codeffe.vercel.app/2022-weekly-17)
 - [第45期:定制你的专属数字名片](https://codeffe.vercel.app/2022-weekly-16)
 - [第44期:跨端统一解决方案](https://codeffe.vercel.app/2022-weekly-15)
 - [第43期:MobX 实现原理揭秘](https://codeffe.vercel.app/2022-weekly-14)
