@@ -16,6 +16,15 @@
 
 ### 📰 期刊
 
+- [第57期:微前端架构技术选型](https://www.notion.so/zhiking/57-c1d9301c584b46d292fbddd5ebe5c634)
+- [第56期:前端智能化技术探索](https://www.notion.so/56-0acee1acde3a4d999ab0499a80ee508b)
+- [第55期:低代码渲染那些事](https://www.notion.so/55-240639ad73ab4c5a930cc986b89498ce)
+- [第54期:可视化拖拽组件库原理分析](https://www.notion.so/54-8abf582be1f94c50bf102411481aacd1)
+- [第53期:****如何为开源做贡献****](https://www.notion.so/53-9063776f310d42958dc7c0df11620527)
+- [第52期:关于混合研发的思考](https://www.notion.so/52-27f3b07e4e9349889b1e0c1e4f611d57)
+- [第51期:2022年的React生态](https://www.notion.so/51-2022-React-f042747903b44e188aefe685be9c04d8)
+- [第50期:中国程序员易发音错误的单词](https://www.notion.so/50-0e9466a09f9941bcab8d83736ae90a62)
+- [第49期:咱们来想一下这道题](https://www.notion.so/49-5e2697b9cb0246b09c73492193719001)
 - [第48期:99行代码能干啥](https://codeffe.vercel.app/2022-weekly-19)
 - [第47期:你在丧尸末日中能生存多久](https://codeffe.vercel.app/2022-weekly-18)
 - [第46期:程序员万象指南](https://codeffe.vercel.app/2022-weekly-17)
